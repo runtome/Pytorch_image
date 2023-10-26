@@ -2,3 +2,4 @@ timm
 pytorch_lightning
 evaluate
 torchinfo
+lightning
