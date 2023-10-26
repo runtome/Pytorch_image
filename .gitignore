@@ -14,3 +14,6 @@ submission.csv
 test.ipynb
 
 __pycache__/
+
+#training weigth 
+*.pt
