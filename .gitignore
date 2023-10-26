@@ -1,0 +1,16 @@
+#log file 
+
+lightning_logs/
+
+#Train 
+test/
+train/
+
+
+info.csv
+submission.csv
+
+#testing notebook
+test.ipynb
+
+__pycache__/
