@@ -7,7 +7,7 @@ import timm.optim
 import timm.scheduler
 import evaluate
 import numpy as np
-from tqdm.notebook import tqdm
+from tqdm import tqdm
 from sklearn.model_selection import StratifiedKFold
 from lightning.fabric import Fabric
 from utility import model_information
